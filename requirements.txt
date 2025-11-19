@@ -1,0 +1,6 @@
+numpy==1.26.4
+pandas==2.2.3
+Flask==3.0.3
+scikit-learn==1.5.2
+xgboost==2.1.1
+imbalanced-learn==0.12.3
